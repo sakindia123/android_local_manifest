@@ -21,6 +21,5 @@
     <project path="vendor/cm" name="legaCyMod/android_vendor_cm" revision="cm-10.1" />
 
     <!-- Local projects -->
-    <project path="hardware/atheros/wifi/libs" name="legaCyMod/android_hardware_atheros_wifi_libs" revision="cm-10.1" />
-    <project path="hardware/qcom/display-legacy" name="legaCyMod/android_hardware_qcom_display-legacy" revision="cm-10.1" />
+    <project path="hardware/qcom/display-legacy" name="androidarmv6/android_hardware_qcom_display-legacy" revision="cm-10.1" />
 </manifest>

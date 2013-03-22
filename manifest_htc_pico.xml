@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest>
+    <!-- HTC Explorer -->
+    <project path="device/htc/pico" name="sakindia123/cm10.1_htc_pico" revision="master" />
+    <project path="kernel/htc/pico" name="sakindia123/android_kernel_htc_pico" revision="master" />
+    <project path="vendor/htc/pico" name="sakindia123/ics-vendor-pico" revision="master" />
+</manifest>
